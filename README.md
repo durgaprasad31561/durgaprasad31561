@@ -97,10 +97,10 @@ I'm a **B.Tech Computer Science & Engineering student** and an entry-level **Ful
 
 <p align="center">
   <a href="https://github.com/durgaprasad31561">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=durgaprasad31561&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=durgaprasad31561&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/durgaprasad31561">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgaprasad31561&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=durgaprasad31561&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   </a>
 </p>
 
@@ -116,7 +116,7 @@ I'm a **B.Tech Computer Science & Engineering student** and an entry-level **Ful
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=durgaprasad31561&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=durgaprasad31561&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
   </a>
 </p>
 
